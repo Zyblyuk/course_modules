@@ -4,3 +4,4 @@ module_2/descriptive_stats/clients.csv
 module_3/train.csv
 module_3/val_without_target.csv
 module_3/catboost_info
+module_4/dataset.csv
